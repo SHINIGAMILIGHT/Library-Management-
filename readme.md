@@ -26,11 +26,6 @@ A Library Management Web Application built in fulfilment of the [Developer Hirin
 ## **Screenshots:**
 
 ![1](https://user-images.githubusercontent.com/49085834/121894715-142b1900-cd3d-11eb-8e69-9b75cb96a6fe.png)
-![2](https://user-images.githubusercontent.com/49085834/121894744-1db48100-cd3d-11eb-8025-470a3bf281a8.png)
-![5 1](https://user-images.githubusercontent.com/49085834/121894874-450b4e00-cd3d-11eb-9dc7-476ecd4d061b.png)
-![7](https://user-images.githubusercontent.com/49085834/121894887-489ed500-cd3d-11eb-95e2-335d6b475fec.png)
-![8](https://user-images.githubusercontent.com/49085834/121894898-4b99c580-cd3d-11eb-8d3f-5a76320c4799.png)
-![9 1](https://user-images.githubusercontent.com/49085834/121894915-505e7980-cd3d-11eb-91bf-314edf79005d.png)
 ![9 2](https://user-images.githubusercontent.com/49085834/121894980-61a78600-cd3d-11eb-9c0b-cac8944f169e.png)
 ![9 3](https://user-images.githubusercontent.com/49085834/121894993-6409e000-cd3d-11eb-9ae4-d2e38101bcae.png)
 ![9 4](https://user-images.githubusercontent.com/49085834/121895006-65d3a380-cd3d-11eb-8765-07045b00beec.png)
